@@ -9,5 +9,12 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-youtube"
+  "hubot-youtube",
+  "hubot-thesimpsons",
+  "hubot-reactions",
+  "hubot-sentimental",
+  "hubot-codinglove",
+  "hubot-reaction",
+  "hubot-9gag",
+  "hubot-principles"
 ]
